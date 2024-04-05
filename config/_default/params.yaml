@@ -1,0 +1,68 @@
+############################
+## Author
+############################
+
+author:
+  name: "Szabolcs Nógrádi"
+  image: author.png
+  greeting: "Front-end web development"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/SzabolcsN
+  # - facebook: 
+  # - x-twitter:
+  # - mastodon:
+  - linkedin: https://www.linkedin.com/in/szabolcsnogradi/
+  # - instagram:
+  # - reddit: 
+  # - telegram: 
+  # - whatsapp: 
+  # - signal: 
+  # - codepen: 
+  # - dev: 
+  - email: mailto:nogradiszabolcs24@gmail.com
+  # - website:
+  # - link: 
+  # - discord:
+  # - orcid:
+  # - slack:
+  # - stack-overflow: 
+  # - twitch: 
+  # - patreon: 
+  # - soundcloud:
+  # - dribbble: 
+  # - stack-exchange: 
+  # - tiktok: 
+  # - youtube:
+  # - keybase: 
+  # - flickr: 
+  # - tumblr:
+  # - kickstarter: 
+  # - snapchat:
+  # - bluesky: 
+  # - bitbucket:
+  # - bandcamp: 
+  # - etsy: 
+  # - spotify: 
+  # - pinterest: 
+  # - strava: 
+  # - untappd: 
+  # - skype: 
+  # - medium: 
+  # - foursquare: 
+  # - apple: 
+  # - amazon: 
+  # - google: 
+  # - paypal: 
+  # - windows: 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "Qubt Theme"
+description: "&#169; 2024 Szabolcs Nógrádi - build with Qubt & Hugo"
